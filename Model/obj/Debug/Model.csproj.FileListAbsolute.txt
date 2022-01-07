@@ -1,0 +1,64 @@
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\bin\Debug\Model.dll.config
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\bin\Debug\Model.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\bin\Debug\Model.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\bin\Debug\System.Data.Common.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\obj\Debug\Model.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\obj\Debug\Model.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\bin\Debug\Model.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\bin\Debug\Model.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\bin\Debug\Model.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\bin\Debug\System.Data.Common.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\bin\Debug\System.Data.SqlClient.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.xml
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\obj\Debug\Model.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\obj\Debug\Model.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\bin\Debug\Model.dll.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\bin\Debug\System.Data.Common.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\obj\Debug\Model.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\obj\Debug\Model.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\Model.dll.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\System.Data.Common.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\obj\Debug\Model.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\obj\Debug\Model.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\Model.dll.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\Model.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\Model.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\System.Data.Common.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\System.Data.SqlClient.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.xml
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\obj\Debug\Model.csproj.CopyComplete
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\obj\Debug\Model.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Model\obj\Debug\Model.pdb

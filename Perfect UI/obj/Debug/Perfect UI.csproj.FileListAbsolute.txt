@@ -1,0 +1,699 @@
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Form2.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditNV.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditTheKH.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmInit.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmNhanVien.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmTheKhachHang.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmThongKe.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Properties.Resources.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe.config
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.exe
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.exe
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.exe
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Perfect UI\bin\Debug\Guna.UI.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.exe
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\FontAwesome.Sharp.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Guna.UI.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Design.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Fonts.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.exe
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.exe.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.exe.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.xml
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csprojAssemblyReference.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Form2.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditNV.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditTheKH.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmInit.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmNhanVien.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmTheKhachHang.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmThongKe.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Properties.Resources.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.GenerateResource.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.CoreCompileInputs.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.CopyComplete
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.exe
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\stdole.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.MSXML.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE80.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj80.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj2.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE80.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj80.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj2.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.Perfect UI.exe.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Form2.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditNV.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditTheKH.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmInit.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmNhanVien.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmTheKhachHang.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmThongKe.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Bunifu.Core.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmSplashSrceen.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE80.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj80.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj2.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE80.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj80.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj2.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.Perfect UI.exe.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Form2.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditNV.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditTheKH.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmInit.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmNhanVien.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmSplashSrceen.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmTheKhachHang.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmThongKe.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE80.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj80.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj2.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE80.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj80.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj2.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.Perfect UI.exe.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Form2.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditNV.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditTheKH.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmInit.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmNhanVien.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmSplashSrceen.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmTheKhachHang.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmThongKe.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Bunifu.Core.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE80.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj80.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj2.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE80.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj80.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\VSLangProj2.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.Perfect UI.exe.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Form2.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditNV.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditTheKH.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmInit.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmNhanVien.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmSplashSrceen.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmTheKhachHang.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmThongKe.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.GenerateResource.Cache
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.exe
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Perfect UI.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.exe
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\FontAwesome.Sharp.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Guna.UI.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Design.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\MetroFramework.Fonts.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.exe
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EnvDTE.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\stdole.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Microsoft.MSXML.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\BLL.dll.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\BUS.exe.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\DALs.dll.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\DAL.dll.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EnteriesQLBangDia.dll.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\Model.dll.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\QuanLyThueBangDia.exe.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.xml
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csprojAssemblyReference.cache
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Form2.resources
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditNV.resources
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmEditTheKH.resources
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmInit.resources
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmNhanVien.resources
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmSplashSrceen.resources
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmTheKhachHang.resources
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.frmThongKe.resources
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect_UI.Properties.Resources.resources
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.GenerateResource.cache
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.CoreCompileInputs.cache
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.csproj.CopyComplete
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.exe
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\Perfect UI\obj\Debug\Perfect UI.pdb

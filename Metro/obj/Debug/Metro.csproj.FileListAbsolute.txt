@@ -1,0 +1,17 @@
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\bin\Debug\Metro.exe.config
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\bin\Debug\Metro.exe
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\bin\Debug\Metro.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\obj\Debug\Metro.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\obj\Debug\Metro.Form1.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\obj\Debug\Metro.Properties.Resources.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\obj\Debug\Metro.frmStaff_Info.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\obj\Debug\Metro.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\obj\Debug\Metro.exe
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\Metro\obj\Debug\Metro.pdb

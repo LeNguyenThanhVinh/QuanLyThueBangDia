@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLyBangDiaModelStoreContainer" CdmEntityContainer="QuanLyBangDiaEntities1">
+    <EntitySetMapping Name="tblBangDias">
+      <EntityTypeMapping TypeName="QuanLyBangDiaModel.tblBangDia">
+        <MappingFragment StoreEntitySet="tblBangDia">
+          <ScalarProperty Name="maBangDia" ColumnName="maBangDia" />
+          <ScalarProperty Name="tenBangDia" ColumnName="tenBangDia" />
+          <ScalarProperty Name="theLoai" ColumnName="theLoai" />
+          <ScalarProperty Name="nhaSanXuat" ColumnName="nhaSanXuat" />
+          <ScalarProperty Name="soLuongTon" ColumnName="soLuongTon" />
+          <ScalarProperty Name="tinhTrang" ColumnName="tinhTrang" />
+          <ScalarProperty Name="donGia" ColumnName="donGia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblChiTietPhieuThues">
+      <EntityTypeMapping TypeName="QuanLyBangDiaModel.tblChiTietPhieuThue">
+        <MappingFragment StoreEntitySet="tblChiTietPhieuThue">
+          <ScalarProperty Name="maPhieuThue" ColumnName="maPhieuThue" />
+          <ScalarProperty Name="maBangDia" ColumnName="maBangDia" />
+          <ScalarProperty Name="soLuongThue" ColumnName="soLuongThue" />
+          <ScalarProperty Name="soNgayThue" ColumnName="soNgayThue" />
+          <ScalarProperty Name="trangThai" ColumnName="trangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblKhachHangs">
+      <EntityTypeMapping TypeName="QuanLyBangDiaModel.tblKhachHang">
+        <MappingFragment StoreEntitySet="tblKhachHang">
+          <ScalarProperty Name="maKH" ColumnName="maKH" />
+          <ScalarProperty Name="tenKH" ColumnName="tenKH" />
+          <ScalarProperty Name="gioiTinh" ColumnName="gioiTinh" />
+          <ScalarProperty Name="diaChi" ColumnName="diaChi" />
+          <ScalarProperty Name="soDienThoai" ColumnName="soDienThoai" />
+          <ScalarProperty Name="soCMND" ColumnName="soCMND" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblNhanViens">
+      <EntityTypeMapping TypeName="QuanLyBangDiaModel.tblNhanVien">
+        <MappingFragment StoreEntitySet="tblNhanVien">
+          <ScalarProperty Name="maNhanVien" ColumnName="maNhanVien" />
+          <ScalarProperty Name="tenNhanVien" ColumnName="tenNhanVien" />
+          <ScalarProperty Name="soCMND" ColumnName="soCMND" />
+          <ScalarProperty Name="gioiTinh" ColumnName="gioiTinh" />
+          <ScalarProperty Name="diaChi" ColumnName="diaChi" />
+          <ScalarProperty Name="soDienThoai" ColumnName="soDienThoai" />
+          <ScalarProperty Name="ngaySinh" ColumnName="ngaySinh" />
+          <ScalarProperty Name="taiKhoan" ColumnName="taiKhoan" />
+          <ScalarProperty Name="matKhau" ColumnName="matKhau" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPhieuThues">
+      <EntityTypeMapping TypeName="QuanLyBangDiaModel.tblPhieuThue">
+        <MappingFragment StoreEntitySet="tblPhieuThue">
+          <ScalarProperty Name="maThe" ColumnName="maThe" />
+          <ScalarProperty Name="maPhieuThue" ColumnName="maPhieuThue" />
+          <ScalarProperty Name="maNhanVien" ColumnName="maNhanVien" />
+          <ScalarProperty Name="ngayLap" ColumnName="ngayLap" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblTheThanhViens">
+      <EntityTypeMapping TypeName="QuanLyBangDiaModel.tblTheThanhVien">
+        <MappingFragment StoreEntitySet="tblTheThanhVien">
+          <ScalarProperty Name="maThe" ColumnName="maThe" />
+          <ScalarProperty Name="maKH" ColumnName="maKH" />
+          <ScalarProperty Name="ngayHetHan" ColumnName="ngayHetHan" />
+          <ScalarProperty Name="ngayCap" ColumnName="ngayCap" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

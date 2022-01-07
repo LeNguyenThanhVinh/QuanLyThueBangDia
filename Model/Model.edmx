@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="QuanLyBangDia2Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="tblBangDia">
+          <Key>
+            <PropertyRef Name="maBangDia" />
+          </Key>
+          <Property Name="maBangDia" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="tenBangDia" Type="nvarchar" MaxLength="50" />
+          <Property Name="theLoai" Type="nvarchar" MaxLength="50" />
+          <Property Name="nhaSanXuat" Type="nvarchar" MaxLength="50" />
+          <Property Name="soLuongTon" Type="int" />
+          <Property Name="tinhTrang" Type="nvarchar" MaxLength="50" />
+          <Property Name="donGia" Type="float" />
+        </EntityType>
+        <EntityType Name="tblChiTietPhieuThue">
+          <Key>
+            <PropertyRef Name="maPhieuThue" />
+            <PropertyRef Name="maBangDia" />
+          </Key>
+          <Property Name="maPhieuThue" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="maBangDia" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="soLuongThue" Type="int" />
+          <Property Name="soNgayThue" Type="int" />
+          <Property Name="soLuongDaTra" Type="int" />
+        </EntityType>
+        <EntityType Name="tblKhachHang">
+          <Key>
+            <PropertyRef Name="maKH" />
+          </Key>
+          <Property Name="maKH" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="tenKH" Type="nvarchar" MaxLength="50" />
+          <Property Name="gioiTinh" Type="nvarchar" MaxLength="10" />
+          <Property Name="diaChi" Type="nvarchar" MaxLength="50" />
+          <Property Name="soDienThoai" Type="nvarchar" MaxLength="50" />
+          <Property Name="soCMND" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="tblNhanVien">
+          <Key>
+            <PropertyRef Name="maNhanVien" />
+          </Key>
+          <Property Name="maNhanVien" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="tenNhanVien" Type="nvarchar" MaxLength="50" />
+          <Property Name="soCMND" Type="nvarchar" MaxLength="50" />
+          <Property Name="gioiTinh" Type="nvarchar" MaxLength="10" />
+          <Property Name="diaChi" Type="nvarchar" MaxLength="50" />
+          <Property Name="soDienThoai" Type="nvarchar" MaxLength="50" />
+          <Property Name="ngaySinh" Type="date" />
+          <Property Name="taiKhoan" Type="nvarchar" MaxLength="50" />
+          <Property Name="matKhau" Type="nvarchar" MaxLength="50" />
+          <Property Name="avatar" Type="nvarchar" MaxLength="200" />
+          <Property Name="trangThai" Type="bit" />
+        </EntityType>
+        <EntityType Name="tblPhieuThue">
+          <Key>
+            <PropertyRef Name="maPhieuThue" />
+          </Key>
+          <Property Name="maThe" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="maPhieuThue" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="maNhanVien" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="ngayLap" Type="smalldatetime" />
+          <Property Name="thanhTien" Type="money" />
+        </EntityType>
+        <EntityType Name="tblTheThanhVien">
+          <Key>
+            <PropertyRef Name="maThe" />
+          </Key>
+          <Property Name="maThe" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="maKH" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="ngayHetHan" Type="date" />
+          <Property Name="ngayCap" Type="date" />
+        </EntityType>
+        <Association Name="FK_Chi_Tiet_Phieu_Thue_Bang_Dia1">
+          <End Role="tblBangDia" Type="Self.tblBangDia" Multiplicity="1" />
+          <End Role="tblChiTietPhieuThue" Type="Self.tblChiTietPhieuThue" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblBangDia">
+              <PropertyRef Name="maBangDia" />
+            </Principal>
+            <Dependent Role="tblChiTietPhieuThue">
+              <PropertyRef Name="maBangDia" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_tblChiTietPhieuThue_tblPhieuThue">
+          <End Role="tblPhieuThue" Type="Self.tblPhieuThue" Multiplicity="1" />
+          <End Role="tblChiTietPhieuThue" Type="Self.tblChiTietPhieuThue" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblPhieuThue">
+              <PropertyRef Name="maPhieuThue" />
+            </Principal>
+            <Dependent Role="tblChiTietPhieuThue">
+              <PropertyRef Name="maPhieuThue" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_tblPhieuThue_tblNhanVien">
+          <End Role="tblNhanVien" Type="Self.tblNhanVien" Multiplicity="1" />
+          <End Role="tblPhieuThue" Type="Self.tblPhieuThue" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblNhanVien">
+              <PropertyRef Name="maNhanVien" />
+            </Principal>
+            <Dependent Role="tblPhieuThue">
+              <PropertyRef Name="maNhanVien" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_tblPhieuThue_tblTheThanhVien1">
+          <End Role="tblTheThanhVien" Type="Self.tblTheThanhVien" Multiplicity="1" />
+          <End Role="tblPhieuThue" Type="Self.tblPhieuThue" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblTheThanhVien">
+              <PropertyRef Name="maThe" />
+            </Principal>
+            <Dependent Role="tblPhieuThue">
+              <PropertyRef Name="maThe" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_The_Thanh_Vien_Khach_Hang">
+          <End Role="tblKhachHang" Type="Self.tblKhachHang" Multiplicity="1" />
+          <End Role="tblTheThanhVien" Type="Self.tblTheThanhVien" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblKhachHang">
+              <PropertyRef Name="maKH" />
+            </Principal>
+            <Dependent Role="tblTheThanhVien">
+              <PropertyRef Name="maKH" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Function Name="getBlackList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="getReportTongDoanhThu" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="FromDate" Type="datetime" Mode="In" />
+          <Parameter Name="Todate" Type="datetime" Mode="In" />
+        </Function>
+        <Function Name="getTop5BangDiaYeuThich" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="FromDate" Type="datetime" Mode="In" />
+          <Parameter Name="Todate" Type="datetime" Mode="In" />
+          <Parameter Name="Top" Type="int" Mode="In" />
+        </Function>
+        <EntityContainer Name="QuanLyBangDia2ModelStoreContainer">
+          <EntitySet Name="tblBangDia" EntityType="Self.tblBangDia" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblChiTietPhieuThue" EntityType="Self.tblChiTietPhieuThue" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblKhachHang" EntityType="Self.tblKhachHang" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblNhanVien" EntityType="Self.tblNhanVien" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblPhieuThue" EntityType="Self.tblPhieuThue" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblTheThanhVien" EntityType="Self.tblTheThanhVien" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Chi_Tiet_Phieu_Thue_Bang_Dia1" Association="Self.FK_Chi_Tiet_Phieu_Thue_Bang_Dia1">
+            <End Role="tblBangDia" EntitySet="tblBangDia" />
+            <End Role="tblChiTietPhieuThue" EntitySet="tblChiTietPhieuThue" />
+          </AssociationSet>
+          <AssociationSet Name="FK_tblChiTietPhieuThue_tblPhieuThue" Association="Self.FK_tblChiTietPhieuThue_tblPhieuThue">
+            <End Role="tblPhieuThue" EntitySet="tblPhieuThue" />
+            <End Role="tblChiTietPhieuThue" EntitySet="tblChiTietPhieuThue" />
+          </AssociationSet>
+          <AssociationSet Name="FK_tblPhieuThue_tblNhanVien" Association="Self.FK_tblPhieuThue_tblNhanVien">
+            <End Role="tblNhanVien" EntitySet="tblNhanVien" />
+            <End Role="tblPhieuThue" EntitySet="tblPhieuThue" />
+          </AssociationSet>
+          <AssociationSet Name="FK_tblPhieuThue_tblTheThanhVien1" Association="Self.FK_tblPhieuThue_tblTheThanhVien1">
+            <End Role="tblTheThanhVien" EntitySet="tblTheThanhVien" />
+            <End Role="tblPhieuThue" EntitySet="tblPhieuThue" />
+          </AssociationSet>
+          <AssociationSet Name="FK_The_Thanh_Vien_Khach_Hang" Association="Self.FK_The_Thanh_Vien_Khach_Hang">
+            <End Role="tblKhachHang" EntitySet="tblKhachHang" />
+            <End Role="tblTheThanhVien" EntitySet="tblTheThanhVien" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="QuanLyBangDia2Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="tblBangDia">
+          <Key>
+            <PropertyRef Name="maBangDia" />
+          </Key>
+          <Property Name="maBangDia" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="tenBangDia" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="theLoai" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="nhaSanXuat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="soLuongTon" Type="Int32" />
+          <Property Name="tinhTrang" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="donGia" Type="Double" />
+          <NavigationProperty Name="tblChiTietPhieuThues" Relationship="Self.FK_Chi_Tiet_Phieu_Thue_Bang_Dia1" FromRole="tblBangDia" ToRole="tblChiTietPhieuThue" />
+        </EntityType>
+        <EntityType Name="tblChiTietPhieuThue">
+          <Key>
+            <PropertyRef Name="maPhieuThue" />
+            <PropertyRef Name="maBangDia" />
+          </Key>
+          <Property Name="maPhieuThue" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="maBangDia" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="soLuongThue" Type="Int32" />
+          <Property Name="soNgayThue" Type="Int32" />
+          <Property Name="soLuongDaTra" Type="Int32" />
+          <NavigationProperty Name="tblBangDia" Relationship="Self.FK_Chi_Tiet_Phieu_Thue_Bang_Dia1" FromRole="tblChiTietPhieuThue" ToRole="tblBangDia" />
+          <NavigationProperty Name="tblPhieuThue" Relationship="Self.FK_tblChiTietPhieuThue_tblPhieuThue" FromRole="tblChiTietPhieuThue" ToRole="tblPhieuThue" />
+        </EntityType>
+        <EntityType Name="tblKhachHang">
+          <Key>
+            <PropertyRef Name="maKH" />
+          </Key>
+          <Property Name="maKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="tenKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="gioiTinh" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="diaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="soDienThoai" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="soCMND" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="tblTheThanhViens" Relationship="Self.FK_The_Thanh_Vien_Khach_Hang" FromRole="tblKhachHang" ToRole="tblTheThanhVien" />
+        </EntityType>
+        <EntityType Name="tblNhanVien">
+          <Key>
+            <PropertyRef Name="maNhanVien" />
+          </Key>
+          <Property Name="maNhanVien" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="tenNhanVien" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="soCMND" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="gioiTinh" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="diaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="soDienThoai" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ngaySinh" Type="DateTime" Precision="0" />
+          <Property Name="taiKhoan" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="matKhau" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="avatar" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="tblPhieuThues" Relationship="Self.FK_tblPhieuThue_tblNhanVien" FromRole="tblNhanVien" ToRole="tblPhieuThue" />
+          <Property Name="trangThai" Type="Boolean" />
+        </EntityType>
+        <EntityType Name="tblPhieuThue">
+          <Key>
+            <PropertyRef Name="maPhieuThue" />
+          </Key>
+          <Property Name="maThe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="maPhieuThue" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="maNhanVien" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ngayLap" Type="DateTime" Precision="0" />
+          <Property Name="thanhTien" Type="Decimal" Precision="19" Scale="4" />
+          <NavigationProperty Name="tblChiTietPhieuThues" Relationship="Self.FK_tblChiTietPhieuThue_tblPhieuThue" FromRole="tblPhieuThue" ToRole="tblChiTietPhieuThue" />
+          <NavigationProperty Name="tblNhanVien" Relationship="Self.FK_tblPhieuThue_tblNhanVien" FromRole="tblPhieuThue" ToRole="tblNhanVien" />
+          <NavigationProperty Name="tblTheThanhVien" Relationship="Self.FK_tblPhieuThue_tblTheThanhVien1" FromRole="tblPhieuThue" ToRole="tblTheThanhVien" />
+        </EntityType>
+        <EntityType Name="tblTheThanhVien">
+          <Key>
+            <PropertyRef Name="maThe" />
+          </Key>
+          <Property Name="maThe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="maKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ngayHetHan" Type="DateTime" Precision="0" />
+          <Property Name="ngayCap" Type="DateTime" Precision="0" />
+          <NavigationProperty Name="tblKhachHang" Relationship="Self.FK_The_Thanh_Vien_Khach_Hang" FromRole="tblTheThanhVien" ToRole="tblKhachHang" />
+          <NavigationProperty Name="tblPhieuThues" Relationship="Self.FK_tblPhieuThue_tblTheThanhVien1" FromRole="tblTheThanhVien" ToRole="tblPhieuThue" />
+        </EntityType>
+        <Association Name="FK_Chi_Tiet_Phieu_Thue_Bang_Dia1">
+          <End Role="tblBangDia" Type="Self.tblBangDia" Multiplicity="1" />
+          <End Role="tblChiTietPhieuThue" Type="Self.tblChiTietPhieuThue" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblBangDia">
+              <PropertyRef Name="maBangDia" />
+            </Principal>
+            <Dependent Role="tblChiTietPhieuThue">
+              <PropertyRef Name="maBangDia" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_tblChiTietPhieuThue_tblPhieuThue">
+          <End Role="tblPhieuThue" Type="Self.tblPhieuThue" Multiplicity="1" />
+          <End Role="tblChiTietPhieuThue" Type="Self.tblChiTietPhieuThue" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblPhieuThue">
+              <PropertyRef Name="maPhieuThue" />
+            </Principal>
+            <Dependent Role="tblChiTietPhieuThue">
+              <PropertyRef Name="maPhieuThue" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_The_Thanh_Vien_Khach_Hang">
+          <End Role="tblKhachHang" Type="Self.tblKhachHang" Multiplicity="1" />
+          <End Role="tblTheThanhVien" Type="Self.tblTheThanhVien" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblKhachHang">
+              <PropertyRef Name="maKH" />
+            </Principal>
+            <Dependent Role="tblTheThanhVien">
+              <PropertyRef Name="maKH" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_tblPhieuThue_tblNhanVien">
+          <End Role="tblNhanVien" Type="Self.tblNhanVien" Multiplicity="1" />
+          <End Role="tblPhieuThue" Type="Self.tblPhieuThue" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblNhanVien">
+              <PropertyRef Name="maNhanVien" />
+            </Principal>
+            <Dependent Role="tblPhieuThue">
+              <PropertyRef Name="maNhanVien" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_tblPhieuThue_tblTheThanhVien1">
+          <End Role="tblTheThanhVien" Type="Self.tblTheThanhVien" Multiplicity="1" />
+          <End Role="tblPhieuThue" Type="Self.tblPhieuThue" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblTheThanhVien">
+              <PropertyRef Name="maThe" />
+            </Principal>
+            <Dependent Role="tblPhieuThue">
+              <PropertyRef Name="maThe" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="QuanLyBangDia2Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tblBangDias" EntityType="Self.tblBangDia" />
+          <EntitySet Name="tblChiTietPhieuThues" EntityType="Self.tblChiTietPhieuThue" />
+          <EntitySet Name="tblKhachHangs" EntityType="Self.tblKhachHang" />
+          <EntitySet Name="tblNhanViens" EntityType="Self.tblNhanVien" />
+          <EntitySet Name="tblPhieuThues" EntityType="Self.tblPhieuThue" />
+          <EntitySet Name="tblTheThanhViens" EntityType="Self.tblTheThanhVien" />
+          <AssociationSet Name="FK_Chi_Tiet_Phieu_Thue_Bang_Dia1" Association="Self.FK_Chi_Tiet_Phieu_Thue_Bang_Dia1">
+            <End Role="tblBangDia" EntitySet="tblBangDias" />
+            <End Role="tblChiTietPhieuThue" EntitySet="tblChiTietPhieuThues" />
+          </AssociationSet>
+          <AssociationSet Name="FK_tblChiTietPhieuThue_tblPhieuThue" Association="Self.FK_tblChiTietPhieuThue_tblPhieuThue">
+            <End Role="tblPhieuThue" EntitySet="tblPhieuThues" />
+            <End Role="tblChiTietPhieuThue" EntitySet="tblChiTietPhieuThues" />
+          </AssociationSet>
+          <AssociationSet Name="FK_The_Thanh_Vien_Khach_Hang" Association="Self.FK_The_Thanh_Vien_Khach_Hang">
+            <End Role="tblKhachHang" EntitySet="tblKhachHangs" />
+            <End Role="tblTheThanhVien" EntitySet="tblTheThanhViens" />
+          </AssociationSet>
+          <AssociationSet Name="FK_tblPhieuThue_tblNhanVien" Association="Self.FK_tblPhieuThue_tblNhanVien">
+            <End Role="tblNhanVien" EntitySet="tblNhanViens" />
+            <End Role="tblPhieuThue" EntitySet="tblPhieuThues" />
+          </AssociationSet>
+          <AssociationSet Name="FK_tblPhieuThue_tblTheThanhVien1" Association="Self.FK_tblPhieuThue_tblTheThanhVien1">
+            <End Role="tblTheThanhVien" EntitySet="tblTheThanhViens" />
+            <End Role="tblPhieuThue" EntitySet="tblPhieuThues" />
+          </AssociationSet>
+          <FunctionImport Name="getBlackList" ReturnType="Collection(QuanLyBangDia2Model.getBlackList_Result)" />
+          <FunctionImport Name="getReportTongDoanhThu" ReturnType="Collection(QuanLyBangDia2Model.getReportTongDoanhThu_Result)">
+            <Parameter Name="FromDate" Mode="In" Type="DateTime" />
+            <Parameter Name="Todate" Mode="In" Type="DateTime" />
+          </FunctionImport>
+          <FunctionImport Name="getTop5BangDiaYeuThich" ReturnType="Collection(QuanLyBangDia2Model.getTop5BangDiaYeuThich_Result)">
+            <Parameter Name="FromDate" Mode="In" Type="DateTime" />
+            <Parameter Name="Todate" Mode="In" Type="DateTime" />
+            <Parameter Name="Top" Mode="In" Type="Int32" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="getBlackList_Result">
+          <Property Type="String" Name="maKH" Nullable="false" MaxLength="50" />
+          <Property Type="String" Name="tenKH" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="maPhieuThue" Nullable="false" MaxLength="50" />
+          <Property Type="String" Name="tenBangDia" Nullable="true" MaxLength="50" />
+          <Property Type="Int32" Name="soLuongThue" Nullable="true" />
+          <Property Type="Int32" Name="soLuongDaTra" Nullable="true" />
+          <Property Type="DateTime" Name="ngayLap" Nullable="true" Precision="16" />
+          <Property Type="Int32" Name="soNgayThue" Nullable="true" />
+        </ComplexType>
+        <ComplexType Name="getReportTongDoanhThu_Result">
+          <Property Type="String" Name="maThe" Nullable="false" MaxLength="50" />
+          <Property Type="String" Name="tenKH" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="maNhanVien" Nullable="false" MaxLength="50" />
+          <Property Type="String" Name="tenNhanVien" Nullable="true" MaxLength="50" />
+          <Property Type="DateTime" Name="ngayLap" Nullable="true" Precision="16" />
+          <Property Type="Decimal" Name="thanhTien" Nullable="true" Precision="19" />
+        </ComplexType>
+        <ComplexType Name="getTop5BangDiaYeuThich_Result">
+          <Property Type="String" Name="maBangDia" Nullable="false" MaxLength="50" />
+          <Property Type="String" Name="tenBangDia" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="theLoai" Nullable="true" MaxLength="50" />
+          <Property Type="Int32" Name="Total_amount" Nullable="true" />
+          <Property Type="Int32" Name="Total_Day" Nullable="true" />
+          <Property Type="Int32" Name="Total" Nullable="true" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="QuanLyBangDia2ModelStoreContainer" CdmEntityContainer="QuanLyBangDia2Entities">
+          <EntitySetMapping Name="tblBangDias">
+            <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblBangDia">
+              <MappingFragment StoreEntitySet="tblBangDia">
+                <ScalarProperty Name="maBangDia" ColumnName="maBangDia" />
+                <ScalarProperty Name="tenBangDia" ColumnName="tenBangDia" />
+                <ScalarProperty Name="theLoai" ColumnName="theLoai" />
+                <ScalarProperty Name="nhaSanXuat" ColumnName="nhaSanXuat" />
+                <ScalarProperty Name="soLuongTon" ColumnName="soLuongTon" />
+                <ScalarProperty Name="tinhTrang" ColumnName="tinhTrang" />
+                <ScalarProperty Name="donGia" ColumnName="donGia" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblChiTietPhieuThues">
+            <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblChiTietPhieuThue">
+              <MappingFragment StoreEntitySet="tblChiTietPhieuThue">
+                <ScalarProperty Name="maPhieuThue" ColumnName="maPhieuThue" />
+                <ScalarProperty Name="maBangDia" ColumnName="maBangDia" />
+                <ScalarProperty Name="soLuongThue" ColumnName="soLuongThue" />
+                <ScalarProperty Name="soNgayThue" ColumnName="soNgayThue" />
+                <ScalarProperty Name="soLuongDaTra" ColumnName="soLuongDaTra" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblKhachHangs">
+            <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblKhachHang">
+              <MappingFragment StoreEntitySet="tblKhachHang">
+                <ScalarProperty Name="maKH" ColumnName="maKH" />
+                <ScalarProperty Name="tenKH" ColumnName="tenKH" />
+                <ScalarProperty Name="gioiTinh" ColumnName="gioiTinh" />
+                <ScalarProperty Name="diaChi" ColumnName="diaChi" />
+                <ScalarProperty Name="soDienThoai" ColumnName="soDienThoai" />
+                <ScalarProperty Name="soCMND" ColumnName="soCMND" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblNhanViens">
+            <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblNhanVien">
+              <MappingFragment StoreEntitySet="tblNhanVien">
+                <ScalarProperty Name="trangThai" ColumnName="trangThai" />
+                <ScalarProperty Name="maNhanVien" ColumnName="maNhanVien" />
+                <ScalarProperty Name="tenNhanVien" ColumnName="tenNhanVien" />
+                <ScalarProperty Name="soCMND" ColumnName="soCMND" />
+                <ScalarProperty Name="gioiTinh" ColumnName="gioiTinh" />
+                <ScalarProperty Name="diaChi" ColumnName="diaChi" />
+                <ScalarProperty Name="soDienThoai" ColumnName="soDienThoai" />
+                <ScalarProperty Name="ngaySinh" ColumnName="ngaySinh" />
+                <ScalarProperty Name="taiKhoan" ColumnName="taiKhoan" />
+                <ScalarProperty Name="matKhau" ColumnName="matKhau" />
+                <ScalarProperty Name="avatar" ColumnName="avatar" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblPhieuThues">
+            <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblPhieuThue">
+              <MappingFragment StoreEntitySet="tblPhieuThue">
+                <ScalarProperty Name="maThe" ColumnName="maThe" />
+                <ScalarProperty Name="maPhieuThue" ColumnName="maPhieuThue" />
+                <ScalarProperty Name="maNhanVien" ColumnName="maNhanVien" />
+                <ScalarProperty Name="ngayLap" ColumnName="ngayLap" />
+                <ScalarProperty Name="thanhTien" ColumnName="thanhTien" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblTheThanhViens">
+            <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblTheThanhVien">
+              <MappingFragment StoreEntitySet="tblTheThanhVien">
+                <ScalarProperty Name="maThe" ColumnName="maThe" />
+                <ScalarProperty Name="maKH" ColumnName="maKH" />
+                <ScalarProperty Name="ngayHetHan" ColumnName="ngayHetHan" />
+                <ScalarProperty Name="ngayCap" ColumnName="ngayCap" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="getBlackList" FunctionName="QuanLyBangDia2Model.Store.getBlackList">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="QuanLyBangDia2Model.getBlackList_Result">
+                <ScalarProperty Name="maKH" ColumnName="maKH" />
+                <ScalarProperty Name="tenKH" ColumnName="tenKH" />
+                <ScalarProperty Name="maPhieuThue" ColumnName="maPhieuThue" />
+                <ScalarProperty Name="tenBangDia" ColumnName="tenBangDia" />
+                <ScalarProperty Name="soLuongThue" ColumnName="soLuongThue" />
+                <ScalarProperty Name="soLuongDaTra" ColumnName="soLuongDaTra" />
+                <ScalarProperty Name="ngayLap" ColumnName="ngayLap" />
+                <ScalarProperty Name="soNgayThue" ColumnName="soNgayThue" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="getReportTongDoanhThu" FunctionName="QuanLyBangDia2Model.Store.getReportTongDoanhThu">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="QuanLyBangDia2Model.getReportTongDoanhThu_Result">
+                <ScalarProperty Name="maThe" ColumnName="maThe" />
+                <ScalarProperty Name="tenKH" ColumnName="tenKH" />
+                <ScalarProperty Name="maNhanVien" ColumnName="maNhanVien" />
+                <ScalarProperty Name="tenNhanVien" ColumnName="tenNhanVien" />
+                <ScalarProperty Name="ngayLap" ColumnName="ngayLap" />
+                <ScalarProperty Name="thanhTien" ColumnName="thanhTien" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="getTop5BangDiaYeuThich" FunctionName="QuanLyBangDia2Model.Store.getTop5BangDiaYeuThich">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="QuanLyBangDia2Model.getTop5BangDiaYeuThich_Result">
+                <ScalarProperty Name="maBangDia" ColumnName="maBangDia" />
+                <ScalarProperty Name="tenBangDia" ColumnName="tenBangDia" />
+                <ScalarProperty Name="theLoai" ColumnName="theLoai" />
+                <ScalarProperty Name="Total_amount" ColumnName="Total amount" />
+                <ScalarProperty Name="Total_Day" ColumnName="Total Day" />
+                <ScalarProperty Name="Total" ColumnName="Total" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

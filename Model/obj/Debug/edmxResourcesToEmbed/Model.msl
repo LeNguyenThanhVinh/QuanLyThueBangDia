@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLyBangDia2ModelStoreContainer" CdmEntityContainer="QuanLyBangDia2Entities">
+    <EntitySetMapping Name="tblBangDias">
+      <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblBangDia">
+        <MappingFragment StoreEntitySet="tblBangDia">
+          <ScalarProperty Name="maBangDia" ColumnName="maBangDia" />
+          <ScalarProperty Name="tenBangDia" ColumnName="tenBangDia" />
+          <ScalarProperty Name="theLoai" ColumnName="theLoai" />
+          <ScalarProperty Name="nhaSanXuat" ColumnName="nhaSanXuat" />
+          <ScalarProperty Name="soLuongTon" ColumnName="soLuongTon" />
+          <ScalarProperty Name="tinhTrang" ColumnName="tinhTrang" />
+          <ScalarProperty Name="donGia" ColumnName="donGia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblChiTietPhieuThues">
+      <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblChiTietPhieuThue">
+        <MappingFragment StoreEntitySet="tblChiTietPhieuThue">
+          <ScalarProperty Name="maPhieuThue" ColumnName="maPhieuThue" />
+          <ScalarProperty Name="maBangDia" ColumnName="maBangDia" />
+          <ScalarProperty Name="soLuongThue" ColumnName="soLuongThue" />
+          <ScalarProperty Name="soNgayThue" ColumnName="soNgayThue" />
+          <ScalarProperty Name="soLuongDaTra" ColumnName="soLuongDaTra" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblKhachHangs">
+      <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblKhachHang">
+        <MappingFragment StoreEntitySet="tblKhachHang">
+          <ScalarProperty Name="maKH" ColumnName="maKH" />
+          <ScalarProperty Name="tenKH" ColumnName="tenKH" />
+          <ScalarProperty Name="gioiTinh" ColumnName="gioiTinh" />
+          <ScalarProperty Name="diaChi" ColumnName="diaChi" />
+          <ScalarProperty Name="soDienThoai" ColumnName="soDienThoai" />
+          <ScalarProperty Name="soCMND" ColumnName="soCMND" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblNhanViens">
+      <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblNhanVien">
+        <MappingFragment StoreEntitySet="tblNhanVien">
+          <ScalarProperty Name="trangThai" ColumnName="trangThai" />
+          <ScalarProperty Name="maNhanVien" ColumnName="maNhanVien" />
+          <ScalarProperty Name="tenNhanVien" ColumnName="tenNhanVien" />
+          <ScalarProperty Name="soCMND" ColumnName="soCMND" />
+          <ScalarProperty Name="gioiTinh" ColumnName="gioiTinh" />
+          <ScalarProperty Name="diaChi" ColumnName="diaChi" />
+          <ScalarProperty Name="soDienThoai" ColumnName="soDienThoai" />
+          <ScalarProperty Name="ngaySinh" ColumnName="ngaySinh" />
+          <ScalarProperty Name="taiKhoan" ColumnName="taiKhoan" />
+          <ScalarProperty Name="matKhau" ColumnName="matKhau" />
+          <ScalarProperty Name="avatar" ColumnName="avatar" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPhieuThues">
+      <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblPhieuThue">
+        <MappingFragment StoreEntitySet="tblPhieuThue">
+          <ScalarProperty Name="maThe" ColumnName="maThe" />
+          <ScalarProperty Name="maPhieuThue" ColumnName="maPhieuThue" />
+          <ScalarProperty Name="maNhanVien" ColumnName="maNhanVien" />
+          <ScalarProperty Name="ngayLap" ColumnName="ngayLap" />
+          <ScalarProperty Name="thanhTien" ColumnName="thanhTien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblTheThanhViens">
+      <EntityTypeMapping TypeName="QuanLyBangDia2Model.tblTheThanhVien">
+        <MappingFragment StoreEntitySet="tblTheThanhVien">
+          <ScalarProperty Name="maThe" ColumnName="maThe" />
+          <ScalarProperty Name="maKH" ColumnName="maKH" />
+          <ScalarProperty Name="ngayHetHan" ColumnName="ngayHetHan" />
+          <ScalarProperty Name="ngayCap" ColumnName="ngayCap" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="getBlackList" FunctionName="QuanLyBangDia2Model.Store.getBlackList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLyBangDia2Model.getBlackList_Result">
+          <ScalarProperty Name="maKH" ColumnName="maKH" />
+          <ScalarProperty Name="tenKH" ColumnName="tenKH" />
+          <ScalarProperty Name="maPhieuThue" ColumnName="maPhieuThue" />
+          <ScalarProperty Name="tenBangDia" ColumnName="tenBangDia" />
+          <ScalarProperty Name="soLuongThue" ColumnName="soLuongThue" />
+          <ScalarProperty Name="soLuongDaTra" ColumnName="soLuongDaTra" />
+          <ScalarProperty Name="ngayLap" ColumnName="ngayLap" />
+          <ScalarProperty Name="soNgayThue" ColumnName="soNgayThue" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="getReportTongDoanhThu" FunctionName="QuanLyBangDia2Model.Store.getReportTongDoanhThu">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLyBangDia2Model.getReportTongDoanhThu_Result">
+          <ScalarProperty Name="maThe" ColumnName="maThe" />
+          <ScalarProperty Name="tenKH" ColumnName="tenKH" />
+          <ScalarProperty Name="maNhanVien" ColumnName="maNhanVien" />
+          <ScalarProperty Name="tenNhanVien" ColumnName="tenNhanVien" />
+          <ScalarProperty Name="ngayLap" ColumnName="ngayLap" />
+          <ScalarProperty Name="thanhTien" ColumnName="thanhTien" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="getTop5BangDiaYeuThich" FunctionName="QuanLyBangDia2Model.Store.getTop5BangDiaYeuThich">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QuanLyBangDia2Model.getTop5BangDiaYeuThich_Result">
+          <ScalarProperty Name="maBangDia" ColumnName="maBangDia" />
+          <ScalarProperty Name="tenBangDia" ColumnName="tenBangDia" />
+          <ScalarProperty Name="theLoai" ColumnName="theLoai" />
+          <ScalarProperty Name="Total_amount" ColumnName="Total amount" />
+          <ScalarProperty Name="Total_Day" ColumnName="Total Day" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

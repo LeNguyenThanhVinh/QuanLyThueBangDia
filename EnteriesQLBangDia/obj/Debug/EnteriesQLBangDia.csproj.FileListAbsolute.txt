@@ -1,0 +1,47 @@
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.csprojAssemblyReference.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.Properties.Resources.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.csproj.GenerateResource.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.csproj.CoreCompileInputs.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll.config
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll.config
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.Properties.Resources.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.Properties.Resources.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.csproj.GenerateResource.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.csproj.CoreCompileInputs.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\EnteriesQLBangDia\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\EnteriesQLBangDia\obj\Debug\EnteriesQLBangDia.pdb

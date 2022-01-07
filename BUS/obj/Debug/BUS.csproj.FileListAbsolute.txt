@@ -1,0 +1,108 @@
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\bin\Debug\BUS.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\bin\Debug\DAL.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\bin\Debug\DAL.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\bin\Debug\DAL.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\obj\Debug\BUS.exe
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia\BUS\obj\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe.config
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\obj\Debug\BUS.exe
+C:\Users\ASUS\Desktop\QuanLyThueBangDia1-12\QuanLyThueBangDia\BUS\obj\Debug\BUS.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe.config
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\obj\Debug\BUS.exe
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\BUS\obj\Debug\BUS.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\bin\Debug\BUS.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\bin\Debug\DAL.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\bin\Debug\DAL.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\bin\Debug\DAL.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\obj\Debug\BUS.exe
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\BUS\obj\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\obj\Debug\BUS.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\obj\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\obj\Debug\BUS.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\BUS\obj\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.exe
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\BUS.exe
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\BUS.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\DAL.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\DAL.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\DAL.dll.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\bin\Debug\EnteriesQLBangDia.dll.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.exe
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\BUS\obj\Debug\BUS.pdb

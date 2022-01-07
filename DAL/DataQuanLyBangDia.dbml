@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyBangDia" Class="DataQuanLyBangDiaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=desktop-hv7hl4n;Initial Catalog=QuanLyBangDia;User ID=sa" SettingsObjectName="DAL.Properties.Settings" SettingsPropertyName="QuanLyBangDiaConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblBangDia" Member="tblBangDias">
+    <Type Name="tblBangDia">
+      <Column Name="maBangDia" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenBangDia" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="theLoai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="nhaSanXuat" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="soLuongTon" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="tinhTrang" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="donGia" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="tblBangDia_tblChiTietPhieuThue" Member="tblChiTietPhieuThues" ThisKey="maBangDia" OtherKey="maBangDia" Type="tblChiTietPhieuThue" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblChiTietPhieuThue" Member="tblChiTietPhieuThues">
+    <Type Name="tblChiTietPhieuThue">
+      <Column Name="maPhieuThue" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="maBangDia" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="soLuongThue" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="soNgayThue" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="soLuongDaTra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblBangDia_tblChiTietPhieuThue" Member="tblBangDia" ThisKey="maBangDia" OtherKey="maBangDia" Type="tblBangDia" IsForeignKey="true" />
+      <Association Name="tblPhieuThue_tblChiTietPhieuThue" Member="tblPhieuThue" ThisKey="maPhieuThue" OtherKey="maPhieuThue" Type="tblPhieuThue" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblKhachHang" Member="tblKhachHangs">
+    <Type Name="tblKhachHang">
+      <Column Name="maKH" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenKH" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="gioiTinh" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="diaChi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="soDienThoai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="soCMND" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tblKhachHang_tblTheThanhVien" Member="tblTheThanhViens" ThisKey="maKH" OtherKey="maKH" Type="tblTheThanhVien" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblNhanVien" Member="tblNhanViens">
+    <Type Name="tblNhanVien">
+      <Column Name="maNhanVien" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenNhanVien" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="soCMND" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="gioiTinh" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="diaChi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="soDienThoai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ngaySinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="taiKhoan" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="matKhau" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="avatar" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="trangThai" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="tblNhanVien_tblPhieuThue" Member="tblPhieuThues" ThisKey="maNhanVien" OtherKey="maNhanVien" Type="tblPhieuThue" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblPhieuThue" Member="tblPhieuThues">
+    <Type Name="tblPhieuThue">
+      <Column Name="maThe" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="maPhieuThue" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="maNhanVien" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ngayLap" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="thanhTien" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Association Name="tblPhieuThue_tblChiTietPhieuThue" Member="tblChiTietPhieuThues" ThisKey="maPhieuThue" OtherKey="maPhieuThue" Type="tblChiTietPhieuThue" />
+      <Association Name="tblNhanVien_tblPhieuThue" Member="tblNhanVien" ThisKey="maNhanVien" OtherKey="maNhanVien" Type="tblNhanVien" IsForeignKey="true" />
+      <Association Name="tblTheThanhVien_tblPhieuThue" Member="tblTheThanhVien" ThisKey="maThe" OtherKey="maThe" Type="tblTheThanhVien" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblTheThanhVien" Member="tblTheThanhViens">
+    <Type Name="tblTheThanhVien">
+      <Column Name="maThe" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="maKH" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ngayHetHan" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ngayCap" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="tblTheThanhVien_tblPhieuThue" Member="tblPhieuThues" ThisKey="maThe" OtherKey="maThe" Type="tblPhieuThue" />
+      <Association Name="tblKhachHang_tblTheThanhVien" Member="tblKhachHang" ThisKey="maKH" OtherKey="maKH" Type="tblKhachHang" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

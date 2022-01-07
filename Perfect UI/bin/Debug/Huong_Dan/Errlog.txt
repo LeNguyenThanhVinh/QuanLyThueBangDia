@@ -1,0 +1,14 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Users\84906\OneDrive\Máy tính\Huong_Dan\Huong_Dan.chm
+
+
+Compile time: 0 minutes, 11 seconds
+11	Topics
+36	Local links
+0	Internet links
+0	Graphics
+
+
+Created c:\Users\84906\OneDrive\Máy tính\Huong_Dan\Huong_Dan.chm, 20,542,372 bytes
+Compression decreased file by 629,575 bytes.

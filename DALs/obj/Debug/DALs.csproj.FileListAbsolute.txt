@@ -1,0 +1,78 @@
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll.config
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\bin\Debug\DALs.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\bin\Debug\Model.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\bin\Debug\Model.pdb
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\obj\Debug\DALs.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\obj\Debug\DALs.dll
+C:\Users\ASUS\Downloads\QuanLyThueBangDia\QuanLyThueBangDia\DALs\obj\Debug\DALs.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\bin\Debug\DALs.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\bin\Debug\Model.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\bin\Debug\Model.pdb
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\bin\Debug\Model.dll.config
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.xml
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.xml
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\obj\Debug\DALs.csprojAssemblyReference.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\obj\Debug\DALs.csproj.CoreCompileInputs.cache
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\obj\Debug\DALs.csproj.CopyComplete
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\obj\Debug\DALs.dll
+D:\Save\LẬP TRÌNH NĂM 3\HK1\Phát triển ứng dụng\Code\QuanLyThueBangDia_12_12\QuanLyThueBangDia\DALs\obj\Debug\DALs.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\DALs.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\obj\Debug\DALs.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\obj\Debug\DALs.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\obj\Debug\DALs.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\DALs.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\obj\Debug\DALs.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\obj\Debug\DALs.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_1_1_2021_a\BaoCao_PTUD_15_12_2020\BaoCao_PTUD_15_12_2020\QuanLyThueBangDia\DALs\obj\Debug\DALs.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll.config
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\DALs.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\obj\Debug\DALs.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\obj\Debug\DALs.dll
+C:\Users\ASUS\Desktop\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\obj\Debug\DALs.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\DALs.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\DALs.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\Model.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\Model.pdb
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\Model.dll.config
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.xml
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\bin\Debug\EntityFramework.SqlServer.xml
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\obj\Debug\DALs.csprojAssemblyReference.cache
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\obj\Debug\DALs.csproj.CoreCompileInputs.cache
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\obj\Debug\DALs.csproj.CopyComplete
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\obj\Debug\DALs.dll
+D:\BaoCao_PTUD_3_1_2021_Final\BaoCao_PTUD\QuanLyThueBangDia\DALs\obj\Debug\DALs.pdb
